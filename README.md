@@ -12,9 +12,23 @@
     </div>
 
 ## Project news:
+<i class="fa fa-telegram" aria-hidden="true"></i>
 
-<div align="center">
+<div style="display: flex; align-items: center;"> <!-- Используем встроенный стиль для Flexbox -->
+        <a href="" style="text-decoration: none;"> <!-- Убираем подчеркивание -->
+            <img src="https://github.com/user-attachments/assets/78b86846-2cb7-4fd2-b463-1673e2f5e4c9" width="40" height="40">
+        </a>
+        <a href="" style="text-decoration: none;"> <!-- Убираем подчеркивание -->
+            <img src="https://github.com/user-attachments/assets/b2152ac9-dfe8-45b8-a4e3-e07df05de129" width="40" height="40">
+        </a>
+        <a href="" style="text-decoration: none;"> <!-- Убираем подчеркивание -->
+            <img src="https://github.com/user-attachments/assets/5c1c5f0d-9426-4fd8-8bbf-4d04b5ae7ad1" width="40" height="40">
+        </a>
+    </div>
 
-![Metrics](github-metrics.svg)
 
-</div>
+![free-icon-youtube-2504965](https://github.com/user-attachments/assets/78b86846-2cb7-4fd2-b463-1673e2f5e4c9)
+
+![free-icon-telegram-2504941](https://github.com/user-attachments/assets/b2152ac9-dfe8-45b8-a4e3-e07df05de129)
+
+![free-icon-vk-2504953](https://github.com/user-attachments/assets/5c1c5f0d-9426-4fd8-8bbf-4d04b5ae7ad1)
