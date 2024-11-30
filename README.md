@@ -18,7 +18,7 @@
     </div>
 
     
-## Project news:
+## Projects news:
 <i class="fa fa-telegram" aria-hidden="true"></i>
 
 <div style="display: flex; align-items: center;"> 
