@@ -1,10 +1,10 @@
 # Dmitriy-OLW
 ### Hi, I'm Dmitry, a game developer. I specialize in VR, MR and Mexatron-VR, but I also make desktop games.
 
-## You can find my games found on: ![https://dmitriy-olw.itch.io/](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
+## You can find my games found on: 
 
 <a href="https://dmitriy-olw.itch.io/">
-  <img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" width="600" height="200" width="600">
+  <img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" width="60" height="20" width="600">
 </a>
 ## Project news:
 
