@@ -3,6 +3,9 @@
 
 ## You can find my games found on: ![https://dmitriy-olw.itch.io/](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
 
+<a href="https://dmitriy-olw.itch.io/">
+  <img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" width="600" height="200" width="600">
+</a>
 ## Project news:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AParovyshnaya&theme=cobalt&show_icons=true)
