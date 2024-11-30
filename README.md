@@ -1,11 +1,11 @@
+<h1 align="center">Dmitriy-OLW</h1>
 
-# Dmitriy-OLW
-### Hi, I'm Dmitry, a game developer. 
+<h3 align="center">Hi, I'm Dmitry, a game developer. </h3> 
 
-### I specialize in VR, MR and Mexatron-VR, but I also make desktop games. 
+<h3 align="center">I specialize in VR, MR and Mexatron-VR, but I also make desktop games. </h3>
 
-## You can find my games on:
-<div style="display: flex; align-items: center;"> 
+<h2 align="center">You can find my games on:</h2>
+<div style="display: flex; align-items: center;" align="center"> 
         <a href="https://dmitriy-olw.itch.io/" style="text-decoration: none;"> 
             <img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" width="100" height="40">
         </a>
@@ -18,10 +18,10 @@
     </div>
 
     
-## Projects news:
-<i class="fa fa-telegram" aria-hidden="true"></i>
+<h2 align="center">Projects news:</h2>
 
-<div style="display: flex; align-items: center;"> 
+
+<div style="display: flex; align-items: center;" align="center"> 
         <a href="https://www.youtube.com/@UnrealRealityGames" style="text-decoration: none;"> 
             <img src="https://github.com/user-attachments/assets/78b86846-2cb7-4fd2-b463-1673e2f5e4c9" width="50" height="50">
         </a>
@@ -39,7 +39,7 @@
         </a>
     </div>
 
-## Know or Work with:|
+<h2 align="center">Know or Work with:</h2>
 **Programming language:**
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
