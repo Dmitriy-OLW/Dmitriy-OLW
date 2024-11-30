@@ -4,7 +4,7 @@
 ## You can find my games found on: 
 
 <a href="https://dmitriy-olw.itch.io/">
-  <img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" width="60" height="20" width="600">
+  <img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" width="100" height="30" width="600">
 </a>
 ## Project news:
 
