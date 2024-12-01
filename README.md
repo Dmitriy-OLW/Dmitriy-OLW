@@ -50,9 +50,5 @@
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub" /></code>
 	<code><img height="50" src="https://github.com/user-attachments/assets/d1e17a9e-b2c4-4ffb-92a6-5b95179d9e7d" alt="VR" title="VR" /></code>
 	<code><img height="50" src="https://github.com/user-attachments/assets/a3dca8c5-5777-4772-bdaf-b6e2319db6f6" alt="AR/MR" title="AR/MR" /></code>
-	<code><img height="50" src="https://github.com/user-attachments/assets/49b8801b-aae7-412b-8dc3-abfb605ddfc6" alt="2DOF/Mexatron-VR" title="2DOF/Mexatron-VR" /></code>
+	<code><img height="50" src="https://github.com/user-attachments/assets/8af92a52-7c0c-4d9c-89c6-14eae2449b07" alt="2DOF/Mexatron-VR" title="2DOF/Mexatron-VR" /></code>
 </div>
-
-
-
-
