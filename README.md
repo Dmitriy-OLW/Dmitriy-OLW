@@ -49,45 +49,9 @@
 	<code><img height="50" src="https://github.com/user-attachments/assets/0b4df0ee-b977-4e30-b5d0-2b8fa0f41996" alt="Rider" title="Rider" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub" /></code>
 	<code><img height="50" src="https://github.com/user-attachments/assets/d1e17a9e-b2c4-4ffb-92a6-5b95179d9e7d" alt="VR" title="VR" /></code>
-	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code" /></code>
+	<code><img height="50" src="https://github.com/user-attachments/assets/a3dca8c5-5777-4772-bdaf-b6e2319db6f6" alt="AR/MR" title="AR/MR" /></code>
+	<code><img height="50" src="https://github.com/user-attachments/assets/49b8801b-aae7-412b-8dc3-abfb605ddfc6" alt="2DOF/Mexatron-VR" title="2DOF/Mexatron-VR" /></code>
 </div>
-
-<h2 align="center">Know or Work with:</h2>
-
-**Programming language:**
-
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-
-
-**Programs:**
-
-![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
-
-
-**Technologies:**
-
- <img src="https://github.com/user-attachments/assets/41c2df91-ac54-45de-9318-befb80cfcf38" width="50" height="50">
- 
-![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge)
-
-
-![free-icon-vr-glasses-2036267]()
-
-
-
-
-
-
-
 
 
 
