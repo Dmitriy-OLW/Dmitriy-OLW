@@ -4,7 +4,7 @@
 
 <h3 align="center">I specialize on VR, MR and Mexatron-VR, but also make desktop games. </h3>
 
-<h2 align="center">You can find my games on:</h2>
+<h2 align="center">🎮My Games:</h2>
 <div style="display: flex; align-items: center;" align="center"> 
         <a href="https://dmitriy-olw.itch.io/" style="text-decoration: none;"> 
             <img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" width="100" height="40">
@@ -18,7 +18,7 @@
     </div>
 
     
-<h2 align="center">Projects news:</h2>
+<h2 align="center">🌐Projects News:</h2>
 
 
 <div style="display: flex; align-items: center;" align="center"> 
@@ -38,6 +38,19 @@
             <img src="https://github.com/user-attachments/assets/5c1c5f0d-9426-4fd8-8bbf-4d04b5ae7ad1" width="50" height="50">
         </a>
     </div>
+
+
+
+<h2 align="center">💻Tech Stack:</h2>
+
+<div align="center">
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" alt="Unity" title="Unity" /></code>
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#" /></code>
+	<code><img height="50" src="https://github.com/user-attachments/assets/0b4df0ee-b977-4e30-b5d0-2b8fa0f41996" alt="Rider" title="Rider" /></code>
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub" /></code>
+	<code><img height="50" src="https://github.com/user-attachments/assets/d1e17a9e-b2c4-4ffb-92a6-5b95179d9e7d" alt="VR" title="VR" /></code>
+	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code" /></code>
+</div>
 
 <h2 align="center">Know or Work with:</h2>
 
@@ -67,6 +80,7 @@
 ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge)
 
 
+![free-icon-vr-glasses-2036267]()
 
 
 
