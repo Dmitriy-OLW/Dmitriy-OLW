@@ -7,7 +7,7 @@
 <h2 align="center">🎮My Games:</h2>
 <div style="display: flex; align-items: center;" align="center"> 
         <a href="https://dmitriy-olw.itch.io/" style="text-decoration: none;"> 
-            <img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" width="100" height="40">
+            <img src="https://github.com/user-attachments/assets/90d05c70-7d62-4b19-b38d-359eb2256b68" width="140" height="40">
         </a>
         <a> 
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -52,3 +52,4 @@
 	<code><img height="50" src="https://github.com/user-attachments/assets/a3dca8c5-5777-4772-bdaf-b6e2319db6f6" alt="AR/MR" title="AR/MR" /></code>
 	<code><img height="50" src="https://github.com/user-attachments/assets/8af92a52-7c0c-4d9c-89c6-14eae2449b07" alt="2DOF/Mexatron-VR" title="2DOF/Mexatron-VR" /></code>
 </div>
+
