@@ -7,13 +7,13 @@
 <h2 align="center">🎮My Games:</h2>
 <div style="display: flex; align-items: center;" align="center"> 
         <a href="https://dmitriy-olw.itch.io/" style="text-decoration: none;"> 
-            <img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" width="100" height="35">
+            <img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" width="100" height="40">
         </a>
         <a> 
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         </a>
         <a href="https://gamejolt.com/@Dmitriy-OLW" style="text-decoration: none;">
-            <img src="https://github.com/user-attachments/assets/0c487d7f-368a-4573-880a-dd5d04f3a4af" width="170" height="35">
+            <img src="https://github.com/user-attachments/assets/0c487d7f-368a-4573-880a-dd5d04f3a4af" width="170" height="40">
         </a>
     </div>
 
