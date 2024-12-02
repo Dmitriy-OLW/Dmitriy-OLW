@@ -13,7 +13,7 @@
             &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         </a>
         <a href="https://gamejolt.com/@Dmitriy-OLW" style="text-decoration: none;">
-            <img src="https://github.com/user-attachments/assets/0c487d7f-368a-4573-880a-dd5d04f3a4af" width="160" height="40">
+            <img src="https://github.com/user-attachments/assets/0c487d7f-368a-4573-880a-dd5d04f3a4af" width="170" height="40">
         </a>
     </div>
 
