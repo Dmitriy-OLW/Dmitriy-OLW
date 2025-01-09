@@ -53,10 +53,6 @@
 	<code><img height="50" src="https://github.com/user-attachments/assets/8af92a52-7c0c-4d9c-89c6-14eae2449b07" alt="2DOF/Mexatron-VR" title="2DOF/Mexatron-VR" /></code>
 </div>
 
-<h2 align="center">🎨New Ideas Loading...</h2>
-<div align="center">
-	<img width="200" height="200" src="https://github.com/user-attachments/assets/83deedd6-3545-4039-a75b-48e48d0626f7" alt="Ideas" title="Ideas" />
-	<img width="200" height="200" src="https://github.com/user-attachments/assets/82134895-d227-42be-b6d4-1f5bf6998630" alt="Loading..." title="Loading..." />
-</div>
+
 
 
