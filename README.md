@@ -2,7 +2,7 @@
 
 <h3 align="center">Hi, I'm Dmitry, a game developer. </h3> 
 
-<h3 align="center">I specialize on VR, MR and Mexatron-VR, but also make desktop games. </h3>
+<h3 align="center">I specialize on VR, AR, MR and Mexatron-VR, but also make desktop and mobile games.  </h3>
 
 <h2 align="center">🎮My Games:</h2>
 <div style="display: flex; align-items: center;" align="center"> 
@@ -51,6 +51,10 @@
 	<code><img height="50" src="https://github.com/user-attachments/assets/d1e17a9e-b2c4-4ffb-92a6-5b95179d9e7d" alt="VR" title="VR" /></code>
 	<code><img height="50" src="https://github.com/user-attachments/assets/a3dca8c5-5777-4772-bdaf-b6e2319db6f6" alt="AR/MR" title="AR/MR" /></code>
 	<code><img height="50" src="https://github.com/user-attachments/assets/8af92a52-7c0c-4d9c-89c6-14eae2449b07" alt="2DOF/Mexatron-VR" title="2DOF/Mexatron-VR" /></code>
+ 	<code><img height="50" src="https://github.com/user-attachments/assets/f1f86625-6432-4763-a5b5-f2bc2bdbbf34" alt="Blender 3D" title="Blender 3D" /></code>
+	<code><img height="50" src="https://github.com/user-attachments/assets/579f8d5c-fb14-4156-81df-852b9d6e3fec" alt="Substance 3d Painter" title="Substance 3d Painter" /></code>
+
+
 </div>
 
 
