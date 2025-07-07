@@ -4,7 +4,7 @@
 
 <h3 align="center">I specialize on VR, AR, MR and Mexatron-VR, but also make desktop and mobile games.  </h3>
 
-<h2 align="center">🎮My Games:</h2>
+<h2 align="center">🎮My Games On:</h2>
 <div style="display: flex; align-items: center;" align="center"> 
         <a href="https://dmitriy-olw.itch.io/" style="text-decoration: none;"> 
             <img src="https://github.com/user-attachments/assets/90d05c70-7d62-4b19-b38d-359eb2256b68" height="40">
