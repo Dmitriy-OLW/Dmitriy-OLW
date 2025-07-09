@@ -2,7 +2,7 @@
 
 <h3 align="center">Hi, I'm Dmitry, a game developer. </h3> 
 
-<h3 align="center">I specialize on VR, AR, MR and Mexatron-VR, but also make desktop and mobile games.  </h3>
+<h3 align="center">I specialize on VR, AR, MR and Mexatron-VR, also make desktop and mobile games.  </h3>
 
 <h2 align="center">🎮My Games:</h2>
 <div style="display: flex; align-items: center;" align="center"> 
